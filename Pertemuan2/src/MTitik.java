@@ -39,11 +39,11 @@ public class MTitik {
         // T1.setOrdinat(10);
         // T2.printTitik();
 
-        T1.absis = 3;
-        T1.ordinat = 4;
+        // T1.absis = 3;
+        // T1.ordinat = 4;
 
-        T1.getAbsis();
-        T1.getOrdinat();
+        // T1.getAbsis();
+        // T1.getOrdinat();
 
         // T1.setAbsis(0);
         // T1.setOrdinat(0);
