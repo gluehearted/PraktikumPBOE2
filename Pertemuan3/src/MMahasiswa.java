@@ -1,5 +1,3 @@
-import java.util.ArrayList;
-
 public class MMahasiswa {
     public static void main(String[] args) {
         MataKuliah PBO = new MataKuliah("PBO", "Pemrograman Berorientasi Objek", 3);
